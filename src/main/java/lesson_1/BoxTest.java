@@ -1,3 +1,5 @@
+package lesson_1;
+
 import lesson_1.Fruits.Apple;
 import lesson_1.Fruits.Orange;
 

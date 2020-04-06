@@ -1,5 +1,6 @@
+package lesson_1;
+
 import lesson_1.Fruits.Fruit;
-import org.w3c.dom.ls.LSOutput;
 
 import java.util.ArrayList;
 
