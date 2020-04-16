@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="133b7924-6157-4185-a2c9-1002caf1251b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/lesson_1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/01042020 (2)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -80,7 +79,7 @@
       <recent name="H:\Git\GU_java_lvl3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="BoxTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoxTest" />
       <module name="GU_java_lvl3" />
@@ -108,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_4.Main" />
+      <module name="GU_java_lvl3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_2.Main" />
       <module name="GU_java_lvl3" />
@@ -126,9 +138,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BoxTest (1)" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BoxTest (1)" />
@@ -154,6 +168,7 @@
       <workItem from="1586367155712" duration="602000" />
       <workItem from="1586468255269" duration="7396000" />
       <workItem from="1586689489484" duration="3828000" />
+      <workItem from="1586893186919" duration="12152000" />
     </task>
     <servers />
   </component>
@@ -166,10 +181,11 @@
     </state>
     <state x="445" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1586204641203" />
     <state x="2316" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586358721824" />
-    <state x="796" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1586089462668">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="2678" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1586930377801">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="796" y="241" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1586089462668" />
+    <state x="2678" y="241" key="#com.intellij.ide.util.MemberChooser/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586930377801" />
     <state x="720" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586204639988">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -182,39 +198,44 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="787" y="399" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1586086619331" />
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586952806701">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1586952806701" />
     <state x="721" y="287" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586086448802">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="721" y="287" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1586086448802" />
-    <state x="772" y="295" key="FileChooserDialogImpl" timestamp="1586469423827">
-      <screen x="63" y="0" width="1857" height="1080" />
+    <state x="2653" y="295" key="FileChooserDialogImpl" timestamp="1586930295959">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="771" y="295" key="FileChooserDialogImpl/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1586203225258" />
+    <state x="2653" y="295" key="FileChooserDialogImpl/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586930295959" />
     <state x="772" y="295" key="FileChooserDialogImpl/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1586469423827" />
-    <state width="1814" height="294" key="GridCell.Tab.0.bottom" timestamp="1586694778698">
+    <state width="1814" height="294" key="GridCell.Tab.0.bottom" timestamp="1587060232580">
       <screen x="63" y="0" width="1857" height="1080" />
     </state>
     <state width="1795" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1586205996547" />
-    <state width="1877" height="297" key="GridCell.Tab.0.bottom/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586361642132" />
-    <state width="1814" height="294" key="GridCell.Tab.0.bottom/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1586694778698" />
-    <state width="1814" height="294" key="GridCell.Tab.0.center" timestamp="1586694778697">
+    <state width="1795" height="294" key="GridCell.Tab.0.bottom/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586937073721" />
+    <state width="1814" height="294" key="GridCell.Tab.0.bottom/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1587060232580" />
+    <state width="1814" height="294" key="GridCell.Tab.0.center" timestamp="1587060232580">
       <screen x="63" y="0" width="1857" height="1080" />
     </state>
     <state width="1795" height="295" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1586205996547" />
-    <state width="1877" height="297" key="GridCell.Tab.0.center/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586361642132" />
-    <state width="1814" height="294" key="GridCell.Tab.0.center/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1586694778697" />
-    <state width="1814" height="294" key="GridCell.Tab.0.left" timestamp="1586694778697">
+    <state width="1795" height="294" key="GridCell.Tab.0.center/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586937073721" />
+    <state width="1814" height="294" key="GridCell.Tab.0.center/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1587060232580" />
+    <state width="1814" height="294" key="GridCell.Tab.0.left" timestamp="1587060232580">
       <screen x="63" y="0" width="1857" height="1080" />
     </state>
     <state width="1795" height="295" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1586205996547" />
-    <state width="1877" height="297" key="GridCell.Tab.0.left/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586361642132" />
-    <state width="1814" height="294" key="GridCell.Tab.0.left/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1586694778697" />
-    <state width="1814" height="294" key="GridCell.Tab.0.right" timestamp="1586694778698">
+    <state width="1795" height="294" key="GridCell.Tab.0.left/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586937073721" />
+    <state width="1814" height="294" key="GridCell.Tab.0.left/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1587060232580" />
+    <state width="1814" height="294" key="GridCell.Tab.0.right" timestamp="1587060232580">
       <screen x="63" y="0" width="1857" height="1080" />
     </state>
     <state width="1795" height="295" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1920.1080@62.0.1858.1080" timestamp="1586205996547" />
-    <state width="1877" height="297" key="GridCell.Tab.0.right/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586361642132" />
-    <state width="1814" height="294" key="GridCell.Tab.0.right/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1586694778698" />
+    <state width="1795" height="294" key="GridCell.Tab.0.right/63.0.1857.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586937073721" />
+    <state width="1814" height="294" key="GridCell.Tab.0.right/63.0.1857.1080/1920.0.1920.1080@63.0.1857.1080" timestamp="1587060232580" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1586087169272">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
