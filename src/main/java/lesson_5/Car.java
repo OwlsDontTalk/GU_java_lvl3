@@ -1,6 +1,7 @@
 package lesson_5;
 
 import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class Car implements Runnable {
     private static int CARS_COUNT;
@@ -11,16 +12,19 @@ public class Car implements Runnable {
     private int speed;
     private String name;
     private CountDownLatch cdl;
+    public AtomicInteger atomicInteger;
+
     public String getName() {
         return name;
     }
     public int getSpeed() {
         return speed;
     }
-    public Car(Race race, int speed, CountDownLatch cdl) {
+    public Car(Race race, int speed, CountDownLatch cdl, AtomicInteger atomicInteger) {
         this.race = race;
         this.speed = speed;
         this.cdl = cdl;
+        this.atomicInteger = atomicInteger;
         CARS_COUNT++;
         this.name = "Участник #" + CARS_COUNT;
     }
@@ -42,7 +46,7 @@ public class Car implements Runnable {
         }
 
         for (int i = 0; i < race.getStages().size(); i++) {
-            race.getStages().get(i).go(this);
+            race.getStages().get(i).go(this, ( i + 1 ) , race.getStages().size(), atomicInteger);
         }
     }
 }
