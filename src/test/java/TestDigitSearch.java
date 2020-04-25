@@ -1,6 +1,3 @@
-
-
-
 import lesson_6.ArrayCheck;
 import org.junit.Assert;
 import org.junit.Test;
