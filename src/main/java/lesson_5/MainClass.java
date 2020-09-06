@@ -16,6 +16,7 @@ public class MainClass {
         Race race = new Race(new Road(60), new Tunnel(semaphore), new Road(80));
         Car[] cars = new Car[CARS_COUNT];
 
+        
 
         System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Подготовка!!!");
 
